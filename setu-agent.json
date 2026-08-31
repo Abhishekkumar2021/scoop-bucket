@@ -1,0 +1,22 @@
+{
+    "version": "0.23.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Abhishekkumar2021/setu/releases/download/v0.23.0/setu-agent_0.23.0_windows_amd64.zip",
+            "bin": [
+                "setu.exe"
+            ],
+            "hash": "ccb57bb62b5d8ebbed530790af77d245d83b04d59cc0d65a912c3f496a4ee66d"
+        },
+        "arm64": {
+            "url": "https://github.com/Abhishekkumar2021/setu/releases/download/v0.23.0/setu-agent_0.23.0_windows_arm64.zip",
+            "bin": [
+                "setu.exe"
+            ],
+            "hash": "803419fb8d3af67c28b3165bdb4cbbffed5f3f04c44da2a6337ddf46abb47123"
+        }
+    },
+    "homepage": "https://github.com/Abhishekkumar2021/setu",
+    "license": "Apache-2.0",
+    "description": "Setu edge agent — executes Setu pipeline runs at the edge."
+}
