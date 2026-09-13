@@ -1,19 +1,19 @@
 {
-    "version": "0.50.0",
+    "version": "0.51.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Abhishekkumar2021/setu-agent-dist/releases/download/v0.50.0/setu-agent_0.50.0_windows_amd64.zip",
+            "url": "https://github.com/Abhishekkumar2021/setu-agent-dist/releases/download/v0.51.0/setu-agent_0.51.0_windows_amd64.zip",
             "bin": [
                 "setu.exe"
             ],
-            "hash": "af99863301f6312883db6d79b75421301c4dd791f6923e448a1778be9092784a"
+            "hash": "a20aac0d138ce2140de7f9e9b715991ef0926423b4d02cb7be748446ae436383"
         },
         "arm64": {
-            "url": "https://github.com/Abhishekkumar2021/setu-agent-dist/releases/download/v0.50.0/setu-agent_0.50.0_windows_arm64.zip",
+            "url": "https://github.com/Abhishekkumar2021/setu-agent-dist/releases/download/v0.51.0/setu-agent_0.51.0_windows_arm64.zip",
             "bin": [
                 "setu.exe"
             ],
-            "hash": "882a0091d001c8de5c744dfaa889c1feb2a1319e764c1b509bd94c20b7115fcc"
+            "hash": "3ce7dd28d928d06d75b5b27bbd60db736de6c4efd8cfc6369098bef2d5018051"
         }
     },
     "homepage": "https://github.com/Abhishekkumar2021/setu",
